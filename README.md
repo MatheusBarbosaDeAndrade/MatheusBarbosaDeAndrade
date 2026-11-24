@@ -7,9 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:SEU_EMAIL@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=38BDF8&label=VISITAS" />
+  <a href="https://www.linkedin.com/in/matheusbarbosa2005/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=MatheusBarbosaDeAndrade&style=for-the-badge&color=38BDF8&label=VISITAS" />
 </p>
 
 ---
@@ -28,7 +27,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,js,html,css,docker&perline=6" />
+    <img src="https://skillicons.dev/icons?i=nodejs,react,js,html,css,docker,postgres,py&perline=6" />
   </a>
 </p>
 
@@ -47,8 +46,8 @@
 ### Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MatheusBarbosaDeAndrade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBarbosaDeAndrade&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
 </p>
 
 <p align="center">
